@@ -26,7 +26,7 @@ Repository ini berisi materi latihan dari kursus **Machine Learning Basic** yang
 ## Cara Menggunakan
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/<username>/dicoding-ml-basic.git
+   git clone https://github.com/luciferdana/dicoding-ml-basic.git
    ```
 
 2. Install dependensi yang diperlukan (opsional):
